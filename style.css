@@ -3,8 +3,15 @@
   font-family: Arial;
   border: border-box;
 }
-
+/* body{
+  position: absolute
+} */
+/* header{
+  position: relative;
+} */
 .navbar {
+  width: 100%;
+  position: fixed;
   height: 60px;
   background-color: #0f1111;
   color: white;
@@ -506,38 +513,4 @@ justify-content: center;
 
 
 
-/* .boxes-section {
-    border: 2px solid black;
-  
- 
-  
-   margin-left: 170px;
-  
-  ;
-} */
 
-/* .box-one {
-    width: 25%;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 2px solid black;
-}
-.box-two {
-    width: 25%;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 2px solid black;
-}
-.box-three {
-    width: 25%;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 2px solid black;
-}
-.box-four {
-    width: 25%;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 2px solid black;
-  
-} */
